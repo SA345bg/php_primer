@@ -18,7 +18,7 @@
         }
 
         $grade = 'C';
-        // If- Else If - Else
+        // If- Elseif - Else
         if($grade == 'A') {
             echo '<h2 style="color: blue">YOU ARE A SUPERSTAR!</h2>';
         }
